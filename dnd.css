@@ -1,0 +1,30 @@
+body {
+	font-family: Helvetica;
+}
+.center{
+	text-align: center;
+}
+h1 {
+	font-size: 26px;
+	text-align: center;
+	padding-bottom: 26px;
+	padding-top: 20px;
+}
+h2 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid red;
+}
+h3 {
+	font-size: 16px;
+}
+
+.orstomap{
+	display: block;
+	text-align: center;
+}
+.orstomap img {
+	width: 600px;
+}
