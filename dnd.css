@@ -12,17 +12,31 @@ h1 {
 }
 h2 {
 	font-size: 20px;
-	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	text-decoration: underline;
 }
 h3 {
 	font-size: 16px;
-}
 
+}
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 75%;
+	text-align: center;
+	margin:auto;
+	margin-bottom: 10em
+
+}
+td, th {
+	border: 1px solid black;
+	padding: 1em;
+}
 .orstomap{
 	display: block;
 	text-align: center;
+	margin-bottom: 5em
 }
 .orstomap img {
 	width: 600px;
