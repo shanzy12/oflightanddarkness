@@ -1,43 +1,60 @@
 body {
 	font-family: Helvetica;
 }
+
 .center{
 	text-align: center;
 }
+
 h1 {
 	font-size: 26px;
 	text-align: center;
 	padding-bottom: 26px;
 	padding-top: 20px;
 }
+
 h2 {
 	font-size: 20px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-decoration: underline;
 }
+
 h3 {
 	font-size: 16px;
-
 }
+
 table {
 	border: 2px solid black;
 	border-collapse: collapse;
 	width: 75%;
 	text-align: center;
 	margin:auto;
-	margin-bottom: 10em
-
+	margin-bottom: 10em;
 }
-td, th {
+
+td, th{
 	border: 1px solid black;
 	padding: 1em;
 }
+
+thead th{
+	background-color: rgb(68,14,89);
+	color: white;
+	font-size: 24px;
+}
+
 .orstomap{
 	display: block;
 	text-align: center;
 	margin-bottom: 5em
 }
+
 .orstomap img {
 	width: 600px;
+}
+
+.charpic{
+	width: 75px;
+	height: auto;
 }
